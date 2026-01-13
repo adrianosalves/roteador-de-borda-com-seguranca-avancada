@@ -15,6 +15,7 @@
 
 **Screenshot**  
 `screenshots/01-contexto.png`  
+![url malicioso](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/detection-url-maliciosos.png)
 > **Anonimizar**: hostname do roteador (`LAB-ROUTER-01`), endereço WAN fictício (`203.0.113.10`), domínios internos (`lab.local`).
 
 ---
