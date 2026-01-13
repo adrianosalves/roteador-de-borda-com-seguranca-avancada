@@ -41,7 +41,9 @@
 - Verificar evento categorizado como bloqueio por Web Filter.
 - Registrar timestamp e host afetado.
 
-![url malicioso](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/detection-url-maliciosos.png)
+![04 1 logs](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/04.1-logs.png)
+
+![04 2 logs](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/04.2-logs.png)
 
 ---
 
