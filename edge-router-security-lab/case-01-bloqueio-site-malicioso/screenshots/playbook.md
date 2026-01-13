@@ -13,7 +13,6 @@
 - Domínio/URL (anonimizado): `malicious.example`
 - Política: Bloqueio por categoria + exceções necessárias
 
-**Screenshot**  
 ![url malicioso](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/detection-url-maliciosos.png)
 > **Anonimizar**: hostname do roteador (`LAB-ROUTER-01`), endereço WAN fictício (`203.0.113.10`), domínios internos (`lab.local`).
 
@@ -26,8 +25,7 @@
    - Ação: **Block** para Malware/Phishing
    - Exceções (se necessário): atualizações legítimas
 
-**Screenshot**  
-`screenshots/02-configuracao.png`  
+![regra bloqueio sites](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/02-configuracao.png.png)
 > **Anonimizar**: nomes de perfis/políticas, IDs, credenciais, listas individuais.
 
 ---
