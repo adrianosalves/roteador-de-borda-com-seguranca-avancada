@@ -34,8 +34,6 @@
 - Acessar `https://malicious.example` → **bloqueado**  
 - Acessar sites confiáveis → **permitidos**
 
-**Screenshot**  
-`screenshots/03-validacao.png`  
 ![03 Validacao](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/03-validacao.png)
 > **Anonimizar**: hostname do cliente (ex.: `CLIENT-01`), IP interno fictício (`192.168.10.25`), qualquer e-mail exibido.
 
