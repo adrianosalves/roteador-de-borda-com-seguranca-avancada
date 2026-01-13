@@ -16,6 +16,8 @@
 - Política: Bloqueio por categoria + exceções necessárias
 
 
+
+
 ---
 
 ## 2) Configuração Aplicada
