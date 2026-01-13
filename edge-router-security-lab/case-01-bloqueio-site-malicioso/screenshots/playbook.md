@@ -6,6 +6,8 @@
 **Ambiente**: LAB (WAN/DMZ/LAN)  
 **Privacidade**: Todas as informações sensíveis foram **anonimizadas** (hostnames, IPs, domínios, usuários, IDs). Veja `screenshots/DISCLAIMER.md`.
 
+![01 Contexto](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/01-contexto.png?raw=true)
+
 ---
 
 ## 1) Contexto
