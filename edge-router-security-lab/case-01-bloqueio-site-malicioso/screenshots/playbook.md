@@ -28,6 +28,7 @@
 
 **Screenshot**  
 `screenshots/02-configuracao.png`  
+![regra bloqueio sites](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/02-configuracao.png.png)
 > **Anonimizar**: nomes de perfis/políticas, IDs, credenciais, listas individuais.
 
 ---
