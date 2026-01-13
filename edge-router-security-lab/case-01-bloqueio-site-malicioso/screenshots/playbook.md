@@ -15,8 +15,7 @@
 - Domínio/URL (anonimizado): `malicious.example`
 - Política: Bloqueio por categoria + exceções necessárias
 
-
-
+![regra bloqueio sites](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/02.1-configuracao.png)
 
 ---
 
@@ -27,8 +26,7 @@
    - Ação: **Block** para Malware/Phishing
    - Exceções (se necessário): atualizações legítimas
 
-![regra bloqueio sites](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/02.1-configuracao.png)
-
+![02.2 Configuracao](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/02.2-configuracao.png?raw=true)
 ---
 
 ## 3) Validação
