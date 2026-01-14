@@ -13,6 +13,8 @@
 - Interface monitorada: LAN/WAN
 - Perfil: Balanced (ruído x visibilidade)
 
+![01 contexto](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-02-alerta-ids-trafego-suspeito/screenshots/01-contexto.png?raw=true)
+
 **Screenshot**  
 `screenshots/01-contexto.png`  
 > **Anonimizar**: nomes de interface, IPs reais, hostname do roteador.
@@ -61,3 +63,4 @@
 - Considerar mover assinaturas críticas para **IPS/Drop** em produção.
 
 ---
+
