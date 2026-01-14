@@ -3,7 +3,7 @@
 
 **Stack**: Roteador de Borda (IDS)  
 **Objetivo**: Detectar tráfego anômalo/sondagem sem bloqueio automático (modo IDS).  
-**Ambiente**: LAB (Roteador AirProtection)  
+**Ambiente**: LAB (Roteador AiProtection)  
 **Privacidade**: Todas as informações sensíveis foram **anonimizadas**. Veja `screenshots/DISCLAIMER.md`.
 
 ---
@@ -48,6 +48,7 @@
 - Considerar mover assinaturas críticas para **IPS/Drop** em produção.
 
 ---
+
 
 
 
