@@ -6,6 +6,8 @@
 **Ambiente**: LAB (WAN/DMZ/LAN)  
 **Privacidade**: Todas as informações sensíveis foram **anonimizadas** (hostnames, IPs, domínios, usuários, IDs). Veja `screenshots/DISCLAIMER.md`.
 
+![01 Contexto](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/01-contexto.png?raw=true)
+
 ---
 
 ## 1) Contexto
@@ -13,6 +15,7 @@
 - Domínio/URL (anonimizado): `malicious.example`
 - Política: Bloqueio por categoria + exceções necessárias
 
+![regra bloqueio sites](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/02.1-configuracao.png)
 
 ---
 
@@ -23,8 +26,7 @@
    - Ação: **Block** para Malware/Phishing
    - Exceções (se necessário): atualizações legítimas
 
-![regra bloqueio sites](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/02.1-configuracao.png)
-
+![02.2 Configuracao](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/02.2-configuracao.png?raw=true)
 ---
 
 ## 3) Validação
@@ -39,7 +41,9 @@
 - Verificar evento categorizado como bloqueio por Web Filter.
 - Registrar timestamp e host afetado.
 
-![url malicioso](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/detection-url-maliciosos.png)
+![04 1 logs](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/04.1-logs.png)
+
+![04 2 logs](https://github.com/adrianosalves/roteador-de-borda-com-seguranca-avancada/blob/main/edge-router-security-lab/case-01-bloqueio-site-malicioso/screenshots/04.2-logs.png)
 
 ---
 
